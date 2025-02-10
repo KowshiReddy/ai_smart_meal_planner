@@ -22,6 +22,7 @@ From a consumer's perspective, FEAST offers several advantages:
 -   **Convenience**: Simplifies the meal planning process, making it easier for users to prepare meals without extensive planning.
 
 ## General Overview of the Project
+![image](https://github.com/user-attachments/assets/3ba07b9b-fae4-4672-98ba-140fb4c20282)
 
 
 FEAST integrates object detection and text generation to create a seamless user experience:
